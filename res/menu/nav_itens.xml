@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_exercicios"
+        android:icon="@drawable/exercise"
+        android:title="@string/nav_exercicios" />
+    <item
+        android:id="@+id/nav_alimentacao"
+        android:icon="@drawable/apple"
+        android:title="@string/nav_alimentacao" />
+    <item
+        android:id="@+id/nav_saude"
+        android:icon="@drawable/heart"
+        android:title="@string/nav_saude" />
+    <item
+        android:id="@+id/nav_medicamentos"
+        android:icon="@drawable/pills"
+        android:title="@string/nav_medicamentos" />
+    <item
+        android:id="@+id/nav_estatisticas"
+        android:icon="@drawable/computer"
+        android:title="@string/nav_estatisticas" />
+</menu>
