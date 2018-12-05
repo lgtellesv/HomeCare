@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HomeCare</string>
+    <string name="text_titulo">HomeCare</string>
+    <string name="sub_text">Assistente Domiciliar de Saúde</string>
+    <string name="saúde">Saúde</string>
+    <string name="exercicios">Exercícios</string>
+    <string name="alimentação">Alimentação</string>
+    <string name="medicamentos">Medicamentos</string>
+    <string name="estatisticas">Estatísticas</string>
+    <string name="iniciar_exerc">Iniciar exercício</string>
+    <string name="campo1_login">E-mail</string>
+    <string name="campo2_login">Senha</string>
+    <string name="bt_entrar">Entrar</string>
+    <string name="bt_registro">Registrar-me</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_nasc">Nascimento</string>
+    <string name="hint_peso">Peso</string>
+    <string name="hint_altura">Altura</string>
+    <string name="peso_medida">Kg</string>
+    <string name="altura_medida">Cm</string>
+    <string name="confirmaSenha">Confirmar Senha</string>
+    <string name="bt_registrar">Registrar</string>
+    <string name="bt_registrado">Já é registrado? Acesse aqui</string>
+    <string name="sexoM">Masculino</string>
+    <string name="sexoF">Feminino</string>
+    <string name="sexoSelecao">Sexo: </string>
+
+
+    <string name="registro_efetuado">Registro realizado com sucesso.</string>
+    <string name="email_vazio">Insira seu E-mail</string>
+    <string name="email_invalido">Insira um E-mail válido</string>
+    <string name="senha_vazio">Insira sua senha</string>
+    <string name="nao_encontrado">Usuário não encontrado</string>
+    <string name="nome_vazio">Insira seu nome</string>
+    <string name="senhaConfirma">Confirme a senha escolhida</string>
+    <string name="emailJaExiste">E-mail já cadastrado</string>
+    <string name="nav_exercicios">Exercícios</string>
+    <string name="nav_alimentacao">Alimentação</string>
+    <string name="nav_saude">Saúde</string>
+    <string name="nav_medicamentos">Medicamentos</string>
+    <string name="nav_estatisticas">Estatísticas</string>
+
+    <string name="bt_monitorCardiaco">Monitoramento Cardíaco</string>
+    <string name="bt_sono">Notícias</string>
+    <string name="peso_vazio">Peso</string>
+    <string name="altura_vazio">Altura</string>
+    <string name="sexo_vazio">Selecione seu sexo</string>
+    <string name="bt_agua">Consumo de Água</string>
+
+    <string-array name="Beber_agua">
+        <item>180 ml</item>
+        <item>350 ml</item>
+        <item>500 ml</item>
+        <item>1000 ml</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="homecare_textsize">76sp</dimen>
+    <dimen name="sub_textsize">44sp</dimen>
+    <dimen name="icones_textsize">35sp</dimen>
+    <dimen name="iconeMenor_textsize">30sp</dimen>
+    <dimen name="registrar_textsize">30sp</dimen>
+    <dimen name="teste">60sp</dimen>
+</resources>
